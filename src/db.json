@@ -1,0 +1,14 @@
+{
+    "graph1":{
+        "series":[{
+            "name":"Shares",
+            "data": [900, 650, 760, 1350]
+        }]
+    },
+    "graph2":{
+        "series":[{
+            "name":"Loans",
+            "data": [8, 6, 4, 0, 0, 0, 0, 0, 0, 0]
+        }]
+    }
+}

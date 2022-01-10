@@ -1,0 +1,89 @@
+.container-first {
+  width: 100%;
+  margin: 158.7px 0 133.6px 0;
+  display: flex;
+}
+
+.company-info-graph {
+  width: 68.75%;
+  height: 600px;
+  padding: 26.3px 49.1px 49.1px 24.7px;
+  border-radius: 8px;
+  box-shadow: 0 20px 80px 0 rgba(0, 0, 0, 0.07);
+  background-color: #fff;
+}
+
+.info {
+  width: 100%;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: top;
+}
+
+.heading {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-heading {
+  font-size: 21px;
+  color: #161616;
+}
+
+.sub-heading {
+  margin: 8px 0 17.6px 0;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: normal;
+  color: #8d8d8d;
+}
+
+.text-underline {
+  width: 32px;
+  height: 4px;
+  margin-top: 17.6px;
+  border-radius: 2px;
+  background-image: linear-gradient(to right, #2895e9, #7467f0);
+}
+
+.claculations {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total {
+  margin-right: 32px;
+  display: flex;
+  flex-direction: column;
+}
+
+.element-1 {
+  font-size: 18px;
+  font-weight: 300;
+  color: #161616;
+}
+
+.element-2 {
+  margin-top: 5px;
+  font-size: 19px;
+  font-weight: 500;
+  color: #2896e9;
+}
+
+.graph-1 {
+  margin-top: 150px;
+}
+
+.past-activity {
+  width: 31.25%;
+  height: 600px;
+  padding: 26.3px 49.1px 49.1px 30px;
+  border-radius: 10px;
+  box-shadow: 0 20px 80px 0 rgba(0, 0, 0, 0.07);
+  background-color: #fff;
+}
+
+.activity-list {
+  margin-top: 76.3px;
+}
