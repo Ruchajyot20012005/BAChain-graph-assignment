@@ -16,7 +16,6 @@ function MainMatrics() {
             toolbar: false,
             fontFamily: "Montserrat, sans-serif",
           },
-          responsive: true,
           xaxis: {
             axisTicks: {
               show: false,
